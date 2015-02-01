@@ -1,0 +1,26 @@
+{
+    "context": "client",
+    "identifier": "Team_Burning_Systems",
+    "display_name": "Team Burning Systems",
+    "description": "Systems by Team Burning members",
+    "author": "Elite Sardaukar",
+    "version": "1.0",
+    "build": "77443",
+    "date": "2015/02/01",
+    "signature": "not yet implemented",
+    "forum": "",
+    "category": [
+        "ui",
+		"maps"
+    ],
+    "load_planet": [
+        "coui://ui/mods/Team_Burning_Systems/maplist.js"
+    ],
+    "id": "a",
+    "icon": "http://i.imgur.com/PIqkZs9.jpg",
+    "priority": 500,
+    "enabled": true,
+    "dependencies": [
+        "com.pa.conundrum.cShareSystems"
+    ]
+}
