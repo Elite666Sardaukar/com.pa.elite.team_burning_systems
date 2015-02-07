@@ -1,1 +1,1 @@
-# Team-Burning-Systems
+# Team Burning Systems
