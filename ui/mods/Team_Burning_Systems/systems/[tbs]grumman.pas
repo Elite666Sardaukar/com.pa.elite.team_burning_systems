@@ -2,8 +2,8 @@
     "name": "Grumman",
 	"creator": "Elite Sardaukar",
 	"version": "1",
-	"date": "2015/02/01",
-	"description": "1v1/2v2 - A Moon with very small clusters of metal",
+	"date": "2015/02/08",
+	"description": "1v1/2v2 Shared - A moon with very small clusters of metal",
     "planets": [
         {
             "name": "Grumman",

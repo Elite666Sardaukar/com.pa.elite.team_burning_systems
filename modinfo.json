@@ -1,14 +1,14 @@
 {
     "context": "client",
-    "identifier": "Team_Burning_Systems",
+    "identifier": "com.pa.elite.team_burning_systems",
     "display_name": "Team Burning Systems",
-    "description": "Systems by Team Burning members",
+    "description": "A collection of Systems by Team Burning members",
     "author": "Elite Sardaukar",
     "version": "1.0",
     "build": "77443",
-    "date": "2015/02/01",
+    "date": "2015/02/08",
     "signature": "not yet implemented",
-    "forum": "",
+    "forum": "https://forums.uberent.com/threads/team-burning-systems.67823/",
     "category": [
         "ui",
 		"maps"
@@ -16,8 +16,8 @@
     "load_planet": [
         "coui://ui/mods/Team_Burning_Systems/maplist.js"
     ],
-    "id": "a",
-    "icon": "http://i.imgur.com/PIqkZs9.jpg",
+    "id": "team_burning_systems",
+    "icon": "http://i.imgur.com/abnuNSW.jpg",
     "priority": 500,
     "enabled": true,
     "dependencies": [

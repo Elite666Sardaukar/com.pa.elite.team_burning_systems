@@ -2,8 +2,8 @@
     "name": "Canopus System",
 	"creator": "Elite Sardaukar",
 	"version": "1",
-	"date": "2015/02/01",
-	"description": "4v4 - Clan Wars Team Burning Home System",
+	"date": "2015/02/08",
+	"description": "4v4 Shared - Clan wars season 1 Team Burning home system",
     "planets": [
         {
             "name": "Arrakis",

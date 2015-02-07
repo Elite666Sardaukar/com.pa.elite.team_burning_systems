@@ -2,8 +2,8 @@
     "name": "Halo",
 	"creator": "Elite Sardaukar",
 	"version": "1",
-	"date": "2015/02/01",
-	"description": "6 Player FFA - Narrow metal platform ring to battle around",
+	"date": "2015/02/08",
+	"description": "6 Player FFA - Narrow metal ring platform to battle around",
     "planets": [
         {
             "name": "Halo",

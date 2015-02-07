@@ -2,8 +2,8 @@
     "name": "Lunimos",
 	"creator": "Elite Sardaukar",
 	"version": "1",
-	"date": "2015/02/01",
-	"description": "10 Player FFA - Spawn Wars",
+	"date": "2015/02/08",
+	"description": "10 Player FFA - Spawn wars",
     "planets": [
         {
             "name": "Lunimos",
