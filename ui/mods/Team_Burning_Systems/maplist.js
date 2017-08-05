@@ -12,4 +12,10 @@ cShareSystems.load_pas("Team Burning Systems", [
 	"coui://ui/mods/Team_Burning_Systems/systems/[tbs]pwnageddon.pas",
 	"coui://ui/mods/Team_Burning_Systems/systems/[tbs]the_t3mple 2v2.pas",
 	"coui://ui/mods/Team_Burning_Systems/systems/[tbs]the_t3mple 3v3.pas",
+	"coui://ui/mods/Team_Burning_Systems/systems/[tbs]mek_whipping grounds (5).pas",
+	"coui://ui/mods/Team_Burning_Systems/systems/[tbs]mek_whipping grounds (6).pas",
+	"coui://ui/mods/Team_Burning_Systems/systems/[tbs]mek_whipping grounds (7).pas",
+	"coui://ui/mods/Team_Burning_Systems/systems/[tbs]mek_whipping grounds (8).pas",
+	"coui://ui/mods/Team_Burning_Systems/systems/[tbs]mek_whipping grounds (9).pas",
+	"coui://ui/mods/Team_Burning_Systems/systems/[tbs]mek_whipping grounds (10).pas",
 ]);
