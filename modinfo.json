@@ -9,18 +9,11 @@
     "date": "2017/12/03",
     "signature": "not yet implemented",
     "forum": "https://forums.uberent.com/threads/team-burning-systems.67823/",
-    "category": [
-        "ui",
-		"maps"
-    ],
-    "load_planet": [
-        "coui://ui/mods/Team_Burning_Systems/maplist.js"
-    ],
+    "category": [ "ui","maps" ],
+    "load_planet": [ "coui://ui/mods/Team_Burning_Systems/maplist.js" ],
     "id": "team_burning_systems",
     "icon": "http://i.imgur.com/abnuNSW.jpg",
     "priority": 500,
     "enabled": true,
-    "dependencies": [
-        "com.pa.conundrum.cShareSystems"
-    ]
+    "dependencies": [ "com.pa.conundrum.cShareSystems" ]
 }
