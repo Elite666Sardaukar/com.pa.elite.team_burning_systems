@@ -16,7 +16,7 @@ cShareSystems.load_pas("Team Burning Systems", [
 	"coui://ui/mods/Team_Burning_Systems/systems/[tbs]mek_whipping grounds (9).pas",
 	"coui://ui/mods/Team_Burning_Systems/systems/[tbs]mek_whipping grounds (10).pas",
 	"coui://ui/mods/Team_Burning_Systems/systems/[tbs]metageddon.pas",
-	"coui://ui/mods/Team_Burning_Systems/systems/[tbs]omega_belt.pas"
+	"coui://ui/mods/Team_Burning_Systems/systems/[tbs]omega_belt.pas",
 	"coui://ui/mods/Team_Burning_Systems/systems/[tbs]pazokia.pas",
 	"coui://ui/mods/Team_Burning_Systems/systems/[tbs]pwnageddon.pas",
 	"coui://ui/mods/Team_Burning_Systems/systems/[tbs]the_t3mple 2v2.pas",
