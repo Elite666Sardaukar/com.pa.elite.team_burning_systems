@@ -13,7 +13,7 @@
     "load_planet": [ "coui://ui/mods/Team_Burning_Systems/maplist.js" ],
     "id": "team_burning_systems",
     "icon": "http://i.imgur.com/abnuNSW.jpg",
-    "priority": 500,
+    "priority": 100,
     "enabled": true,
     "dependencies": [ "com.pa.conundrum.cShareSystems" ]
 }
