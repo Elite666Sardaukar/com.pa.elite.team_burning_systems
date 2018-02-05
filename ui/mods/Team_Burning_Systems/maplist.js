@@ -3,6 +3,7 @@ cShareSystems.load_pas("Team Burning Systems", [
 	"coui://ui/mods/Team_Burning_Systems/systems/[tbs]canopus_system.pas",
 	"coui://ui/mods/Team_Burning_Systems/systems/[tbs]chusuk.pas",
 	"coui://ui/mods/Team_Burning_Systems/systems/[tbs]frontlines.pas",
+	"coui://ui/mods/Team_Burning_Systems/systems/[tbs]frontlines_sa.pas",
 	"coui://ui/mods/Team_Burning_Systems/systems/[tbs]gemini_belt.pas",
 	"coui://ui/mods/Team_Burning_Systems/systems/[tbs]grumman.pas",
 	"coui://ui/mods/Team_Burning_Systems/systems/[tbs]halo.pas",
